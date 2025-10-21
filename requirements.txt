@@ -1,0 +1,6 @@
+streamlit==1.38.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+pillow>=10.2.0
+pandas>=2.2.2
+lxml>=4.9.3
